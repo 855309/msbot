@@ -1,7 +1,7 @@
 # msbot
 Google minesweeper bot. Algorithm is not complete, doesn't work ~20% of the time at some point.
 
-Screen coordinates are measured for 1920x1080. You can change it from [``Program.cs:41 (int[,] profiles)``](msbot/Program.cs). Format: 
+Screen coordinates are measured for 1920x1080. You can change it from [``Program.cs:41 (int[,] profiles)``](msbot/Program.cs#L41). Format: 
 - p_x (start pos x), 
 - p_y (start pos y), 
 - g_w (grid width, in squares), 
