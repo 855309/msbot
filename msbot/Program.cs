@@ -375,8 +375,6 @@ namespace msbot
             Console.WriteLine("Program ended. Press enter to exit.");
 
             Console.ReadLine();
-            flags.Clear();
-            Main(new string[0]);
         }
     }
 }
